@@ -1,0 +1,1 @@
+Networking is an essential part of cybersecurity as it enables communication between devices. Understanding networking helps security professionals detect threats, protect systems, and secure data.
